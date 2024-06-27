@@ -92,3 +92,7 @@ POSTGRES_PATH_TO_DUMP=/backups
 POSTGRES_BACKUP_NAME=all-databases-backup
 POSTGRES_CRONTAB=*/2 * * * *
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
